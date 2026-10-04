@@ -1,0 +1,4 @@
+cooperator,metric,baseline,target
+SJL Corporation,Monthly rejection rate (sewing),0.05,0.005
+SJL Corporation,Rework rate,0.2,0.01
+SJL Corporation,Rejection rate (eco-solvent printing),0.15,0.02
